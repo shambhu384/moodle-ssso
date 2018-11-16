@@ -1,1 +1,1 @@
-# moodle-ssso
+# Moodle SSSO
